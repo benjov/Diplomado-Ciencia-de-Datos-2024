@@ -1,7 +1,7 @@
 ---
 title: "09_Ejemplo_Conexión_ServicioWeb"
 author: "Benjamín Oliva"
-date: "2024-02-03"
+date: "2024-09-13"
 output: html_document
 ---
 
@@ -54,10 +54,10 @@ sistema <- "SIN"
 proceso <- "MDA"
 lista_nodos <- Nodos
 anio_ini <- "2024"
-mes_ini <- "01"
+mes_ini <- "09"
 dia_ini <- "01"
 anio_fin <- "2024"
-mes_fin <- "01"
+mes_fin <- "09"
 dia_fin <- "07"
 formato <- "JSON"
 
