@@ -1,4 +1,4 @@
-# Diplomado-Ciencia-de-Datos-2023
+# Diplomado-Ciencia-de-Datos-2024
 
 INTRODUCCIÓN A LA CIENCIA DE DATOS: HERRAMIENTAS PARA EL APRENDIZAJE AUTOMATIZADO EN LAS CIENCIAS SOCIALES Y HUMANIDADES
 Facultad de Estudios Superiores Acatlán
