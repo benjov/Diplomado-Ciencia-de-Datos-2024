@@ -17,3 +17,6 @@ Los criterios de evaluación de este ensayo serán:
 (II)	Profundidad del análisis.
 
 (III)	Vinculación de las ideas con los temas tratados en las sesiones.
+
+
+*Fecha de entrega*: 17 de enero de 2025
