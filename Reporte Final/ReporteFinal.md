@@ -1,10 +1,19 @@
-# Proyecto Final
+# Reporte Final
 
-### Objetivo: Evaluar el conocimiento del procesamiento de texto y modelos de lenguaje natural.
+### Objetivo: Evaluar el conocimiento adquirido en el Módulo VI.
 
 ## Instrucciones
 
-1. Usa cualquier modelo o procesamiento / minado de datos visto en clase.
+Asiste o revisa las grabaciones de todas las sesiones del módulo VI. Derivado de ello, entrega un ensayo breve (máximo 5 páginas) donde reflexiones sobre:
 
-2. Usa este set de datos de texto. Se trata de datos empleados en una aplicació́n de modelado temático para la violencia contra las mujeres a través de técnicas de minería de textos. Las autoras: Mora, Baca, Vila y Pegalajar1 (2022) realizaron una investigación que se centró en que la violencia contra las mujeres y las niñas. El conjunto de datos contiene noticias reales de violencia contra las mujeres, las cuales fueron organizadas con su fecha, el título y el cuerpo de la noticia. Disponible en: https://zenodo.org/records/6958808
+(A)	Las principales lecciones aprendidas.
 
+(B)	Cómo aplicaría las herramientas o conceptos presentados por los expertos en tu ámbito profesional o académico.
+
+Los criterios de evaluación de este ensayo serán:
+
+(I)	Claridad y estructura del texto.
+
+(II)	Profundidad del análisis.
+
+(III)	Vinculación de las ideas con los temas tratados en las sesiones.
